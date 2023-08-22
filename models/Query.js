@@ -11,7 +11,6 @@ const CommenQueryInsert = (query,data) => new Promise((resolve, reject) =>{
            return reject(error);
 
         }
-       
     
 });
     
